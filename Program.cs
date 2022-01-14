@@ -18,7 +18,7 @@ namespace Mod6Demo1
             
             Book b1 = new Book();
             Book b2=new Book("FIC-33-RE","FF","YY",20,"sfsf");
-            
+            //new line
             Console.WriteLine("Enter book details :");
             Console.WriteLine("Enter book id:");
             b1.Setbookid(Console.ReadLine());
